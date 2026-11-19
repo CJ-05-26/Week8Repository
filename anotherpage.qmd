@@ -1,0 +1,10 @@
+---
+title: "Another Page"
+author: "Caitlin Jones"
+format: html
+editor: visual
+---
+
+# Adding pages
+
+new file quarto document save as
