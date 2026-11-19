@@ -1,0 +1,17 @@
+---
+title: "Week8githubproject"
+author: "Caitlin Jones"
+format: html
+editor: visual
+---
+
+# Overview
+
+Insert text here with overview of project or document.
+
+## Adding Some Code
+
+```{r}
+data(mtcars)
+plot(mtcars$hp, mtcars$mpg)
+```
